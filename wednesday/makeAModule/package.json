@@ -1,0 +1,15 @@
+{
+  "name": "createthumbnail",
+  "version": "1.0.0",
+  "description": "create thumbnails from files in directory",
+  "main": "createThumbnails.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tjb",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "gm": "^1.23.0"
+  }
+}
